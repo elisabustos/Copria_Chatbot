@@ -5,7 +5,7 @@ from rag import responder
 
 chatbot = gr.ChatInterface(
     fn=responder,
-    title="Asistente Ley 21.442 de copropiedad inmobiliaria",
+    title="Bienvenido a Copria! Tu Asistente de copropiedad inmobiliaria",
     description="",
 )
 

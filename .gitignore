@@ -1,7 +1,7 @@
 # Entorno virtual
 venv/
 
-# Variables de entorno
+# Variables de entorno (contraseñas, usuarios)
 .env
 
 # Python
