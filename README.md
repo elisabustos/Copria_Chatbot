@@ -1,4 +1,5 @@
-# **Copria_Chatbot**
+# **Copria_Chatbot (COPRopiedad IA - Tu IA de copropiedad)**
+
 Chatbot enfocado en apoyar a comités de administración a que resuelvan sus dudas referentes a la ley 21.442 de copropiedad inmobiliaria en Chile.
 
 ## **Infraestructura**
@@ -48,8 +49,6 @@ Antes de comenzar, asegúrate de contar con lo siguiente:
 ```env
 GEMINI_API_KEY=tu_clave_aqui
 ```
-
-3. Copia todos los archivos PDF que deseas consultar dentro de la carpeta `files/`.
 
 ## **Instalación**
 
